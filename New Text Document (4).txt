@@ -1,0 +1,22 @@
+<license code="6EE09C7720AA777A" companyName="PTC" expire="Apr-20-2023" generatedForRelease="21.09.0 - 21.09.x" generationTime="Mar-21-2023 13:23" generatorRelease="HELEN-PRE5" generatorUser="bond" hostid="WIN-08:00:27:3D:AF:3C">
+    <product type="ALM +Escalation +Evaluation +Service Desk +Doors bridge +Jira integration +Deployment +Clustering +ArtifactInDb +Document Management +Document Approval +Document Review +Branching">
+        <user kind="floating" licenses="100" type="user"/>
+        <user kind="named" licenses="100" type="user"/>
+    </product>
+</license>
+
+
+
+<license code="57DDCCFEC29ECFA9" companyName="PTC" expire="Apr-20-2023" generatedForRelease="22.10.0 - 22.10.x" generationTime="Mar-21-2023 13:33" generatorRelease="HELEN-PRE5" generatorUser="bond" hostid="WIN-08:00:27:3D:AF:3C">
+    <product type="ALM +Escalation +Evaluation +Service Desk +Doors bridge +Jira integration +Deployment +Clustering +ArtifactInDb +Document Management +Document Approval +Document Review +Branching">
+        <user kind="floating" licenses="100" type="user"/>
+        <user kind="named" licenses="100" type="user"/>
+    </product>
+</license>
+
+<license code="AA53405A8EF0BC6" companyName="PTC" expire="Apr-28-2023" generatedForRelease="22.10.0 - 22.10.x" generationTime="Mar-29-2023 09:19" generatorRelease="HELEN-PRE5" generatorUser="bond" hostid="WIN-08:00:27:3D:AF:3C">
+    <product type="ALM +Escalation +Evaluation +Service Desk +Doors bridge +Jira integration +Deployment +Clustering +ArtifactInDb +Document Management +Document Approval +Document Review +Branching">
+        <user kind="floating" licenses="100" type="user"/>
+        <user kind="named" licenses="100" type="user"/>
+    </product>
+</license>
