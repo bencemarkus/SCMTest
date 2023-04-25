@@ -14,7 +14,7 @@
     </product>
 </license>
 
-<license code="AA53405A8EF0BC6" companyName="PTC" expire="Apr-28-2023" generatedForRelease="22.10.0 - 22.10.x" generationTime="Mar-29-2023 09:19" generatorRelease="HELEN-PRE5" generatorUser="bond" hostid="WIN-08:00:27:3D:AF:3C">
+<license code="AA53405A8EF0BC6" companyName="PTC" expire="Apr-28-2023" generatedForRelease="22.10.0 - 22.10.x" generationTime="Mar-29-2023 09:19" generatorRelease="HELEN-PRE6" generatorUser="bond" hostid="WIN-08:00:27:3D:AF:3C">
     <product type="ALM +Escalation +Evaluation +Service Desk +Doors bridge +Jira integration +Deployment +Clustering +ArtifactInDb +Document Management +Document Approval +Document Review +Branching">
         <user kind="floating" licenses="100" type="user"/>
         <user kind="named" licenses="100" type="user"/>
