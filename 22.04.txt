@@ -1,0 +1,6 @@
+<license code="77DF34F5E7581D6F" companyName="PTC" expire="May-25-2023" generatedForRelease="22.04.0 - ... " generationTime="Apr-25-2023 14:47" generatorRelease="22.04-SP3" generatorUser="bond" hostid="WIN-08:00:27:3D:AF:3C">
+    <product type="ALM +Escalation +Evaluation +Service Desk +Doors bridge +Jira integration +Deployment +Clustering +ArtifactInDb +Document Management +Document Approval +Document Review +Branching">
+        <user kind="floating" licenses="100" type="user"/>
+        <user kind="named" licenses="100" type="user"/>
+    </product>
+</license>
